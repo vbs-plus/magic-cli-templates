@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@vbs/vue3-vitest-starter",
+      "comment": "release",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@vbs/vue3-vitest-starter"
+}

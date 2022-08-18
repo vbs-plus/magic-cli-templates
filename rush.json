@@ -259,7 +259,6 @@
     "url": "https://github.com/vbs-plus/magic-cli-templates",
     "defaultBranch": "master", // 设置 diff 的目标分支， 默认就是 master
     "defaultRemote": "origin"
-
   },
   /**
    * Event hooks are customized script actions that Rush executes when specific events occur
@@ -414,14 +413,14 @@
     //   "shouldPublish": false
     // },
     {
-      "packageName": "pmrepo-core",
-      "projectFolder": "packages/core",
+      "packageName": "@vbs/react-vitest-starter",
+      "projectFolder": "packages/react-vitest-starter",
       "reviewCategory": "tools",
       "shouldPublish": true
     },
     {
-      "packageName": "pmrepo-utils",
-      "projectFolder": "packages/utils",
+      "packageName": "@vbs/vue3-vitest-starter",
+      "projectFolder": "packages/vue3-vitest-starter",
       "reviewCategory": "tools",
       "shouldPublish": true
     }
