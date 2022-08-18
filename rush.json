@@ -256,7 +256,7 @@
     // "changeLogUpdateCommitMessage": "Update changelogs [skip ci]"
   },
   "repository": {
-    "url": "https://github.com/vbs-plus/pmrepo-rush",
+    "url": "https://github.com/vbs-plus/magic-cli-templates",
     "defaultBranch": "master", // 设置 diff 的目标分支， 默认就是 master
     "defaultRemote": "origin"
 
