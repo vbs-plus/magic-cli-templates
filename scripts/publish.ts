@@ -109,7 +109,7 @@ export async function getPromptQuestionsByType(type: TemplateType) {
    },
  ]
  if (type === 'project') {
-   questions = questions.concat([
+   questions = questions.slice().concat([
      {
        name: 'installCommand',
        type: 'input',
@@ -148,6 +148,19 @@ export async function getPromptQuestionsByType(type: TemplateType) {
   return questions
 }
 
+export async function confirmContinue() {
+  const { confirm } = await inquirer.prompt({
+    name: 'confirm',
+    type: 'confirm',
+    message: '是否继续操作'
+  })
+  if (confirm) {
+    await core()
+  } else {
+    process.exit(-1)
+  }
+}
+
 export async function handlePublish(type: TemplateType) {
   const questions = await getPromptQuestionsByType(type)
   const values = await inquirer.prompt(questions)
@@ -160,6 +173,7 @@ export async function handlePublish(type: TemplateType) {
     })
     if (insertedId) {
       spinner.succeed('发布成功！')
+      await confirmContinue()
     }
   } catch (error) {
     console.log(error)
@@ -180,12 +194,12 @@ export async function handleUpdate(template: TemplateListItem) {
 
   const values = await inquirer.prompt(questions) 
   const sqinner = ora().start('正在更新模板，请稍后...')
-  console.log({...values,})
 
   try {
     const { modifiedCount } = await updateSingleTemplateByNpmName(template.npmName, { "$set": values } as any)
     if (modifiedCount) {
       sqinner.succeed('更新成功')
+      await confirmContinue()
     }
   } catch (error) {
     sqinner.fail('更新失败')
@@ -231,6 +245,7 @@ export async function handleDelete() {
       const { deletedCount } = await deleteTemplateByNpmName(delTemplateNpmNames)
       if (deletedCount) {
         spinner1.succeed('删除成功')
+        await confirmContinue()
       }
     }
   } catch (error) {
