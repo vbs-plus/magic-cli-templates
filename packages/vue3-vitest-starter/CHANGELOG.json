@@ -2,6 +2,18 @@
   "name": "@vbs/vue3-vitest-starter",
   "entries": [
     {
+      "version": "1.0.3",
+      "tag": "@vbs/vue3-vitest-starter_v1.0.3",
+      "date": "Wed, 24 Aug 2022 09:55:22 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.2",
       "tag": "@vbs/vue3-vitest-starter_v1.0.2",
       "date": "Wed, 24 Aug 2022 08:46:56 GMT",
