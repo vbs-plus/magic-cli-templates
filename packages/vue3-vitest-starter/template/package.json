@@ -1,5 +1,7 @@
 {
-  "private": true,
+  "name": "<%= projectName %>",
+  "version": "<%= projectVersion %>",
+  "description": "<% projectDescription %>",
   "packageManager": "pnpm@6.32.3",
   "scripts": {
     "build": "vite build",
