@@ -15,7 +15,7 @@
   "dependencies": {
     "vitest": "^0.10.0",
     "za-zi": "^0.0.7",
-    "@vbs/magic-cli-templates": "^0.0.2",
+    "@vbs/magic-cli-templates": "^0.0.3",
     "@types/node": "^18.6.4",
     "@types/semver": "^7.3.12",
     "semver": "^7.3.7",

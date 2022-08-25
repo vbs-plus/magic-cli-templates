@@ -196,7 +196,7 @@ export async function handleUpdate(template: TemplateListItem) {
   const sqinner = ora().start('正在更新模板，请稍后...')
 
   try {
-    const { modifiedCount } = await updateSingleTemplateByNpmName(template.npmName, { "$set": values } as any)
+    const { modifiedCount } = await updateSingleTemplateByNpmName(template.npmName, values)
     if (modifiedCount) {
       sqinner.succeed('更新成功')
       await confirmContinue()
