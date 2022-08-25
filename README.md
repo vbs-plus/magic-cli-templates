@@ -63,9 +63,9 @@ npm run bootstrap
 > 每个 `package` 下都需要配置 `build` 命令，否则 `rush` 无法正常工作，当然这并不会影响模板任何内容以及 `script`
 
 ```shell
+rush build
 git add .
 git commit -m "chore: publish"
-rush build
 rush change
 rush publish --apply
 # 正式发布npm
