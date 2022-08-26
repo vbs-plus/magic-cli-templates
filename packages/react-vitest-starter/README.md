@@ -20,7 +20,7 @@
 
 ## 特性
 
-- ⚡️ [Vite 2](https://github.com/vitejs/vite), [pnpm](https://pnpm.js.org/), [ESBuild](https://github.com/evanw/esbuild) - 就是快！
+- ⚡️ [Vite 3](https://github.com/vitejs/vite), [pnpm](https://pnpm.js.org/), [ESBuild](https://github.com/evanw/esbuild) - 就是快！
 
 - 🗂 [基于文件的路由](./src/pages)
 
