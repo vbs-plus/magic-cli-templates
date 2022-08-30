@@ -1,6 +1,6 @@
 {
   "name": "magic-cli-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "keywords": [],
   "license": "ISC",
@@ -9,9 +9,9 @@
   "scripts": {
     "bootstrap": "rush update",
     "start": "cd packages/core && npm run link",
-    "bump":"tsx scripts/publish",
+    "bump": "tsx scripts/publish",
     "test": "vitest",
-    "release":"release-it"
+    "release": "release-it"
   },
   "dependencies": {
     "vitest": "^0.10.0",
@@ -24,8 +24,8 @@
     "inquirer": "^8.1.0",
     "ora": "^6.1.2",
     "@types/ora": "^3.2.0",
-    "tsx":"^3.8.2",
-    "axios":"^0.27.2",
+    "tsx": "^3.8.2",
+    "axios": "^0.27.2",
     "release-it": "^15.4.0"
   }
 }
