@@ -9,6 +9,7 @@
     ],
     "strict": true,
     "esModuleInterop": true,
+    "jsx": "preserve",
     "incremental": false,
     "skipLibCheck": true,
     "moduleResolution": "node",

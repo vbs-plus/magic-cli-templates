@@ -2,6 +2,18 @@
   "name": "@vbs/react-vitest-starter",
   "entries": [
     {
+      "version": "1.0.4",
+      "tag": "@vbs/react-vitest-starter_v1.0.4",
+      "date": "Fri, 26 Aug 2022 08:29:23 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update readme"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.3",
       "tag": "@vbs/react-vitest-starter_v1.0.3",
       "date": "Wed, 24 Aug 2022 09:55:22 GMT",

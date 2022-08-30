@@ -1,7 +1,7 @@
 {
   "name": "<%= projectName %>",
   "version": "<%= projectVersion %>",
-  "description": "<% projectDescription %>",
+  "description": "<%= projectDescription %>",
   "packageManager": "pnpm@6.32.3",
   "scripts": {
     "build": "vite build",
@@ -9,8 +9,7 @@
     "lint": "eslint --ext .js,.jsx,.vue,.ts,.tsx src",
     "typecheck": "vue-tsc --noEmit",
     "preview": "vite preview",
-    "test": "vitest",
-    "prepare": "husky install"
+    "test": "vitest"
   },
   "dependencies": {
     "@vueuse/core": "^8.9.4",
@@ -27,7 +26,7 @@
     "@vitejs/plugin-vue": "^2.3.4",
     "@vue/test-utils": "^2.0.2",
     "eslint": "^8.22.0",
-    "husky": ">=8.0.1",
+    "husky": "7.0.1",
     "jsdom": "^19.0.0",
     "lint-staged": "^12.5.0",
     "pnpm": "^6.34.0",

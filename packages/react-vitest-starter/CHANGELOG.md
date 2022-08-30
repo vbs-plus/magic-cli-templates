@@ -1,6 +1,13 @@
 # Change Log - @vbs/react-vitest-starter
 
-This log was last generated on Wed, 24 Aug 2022 09:55:22 GMT and should not be manually modified.
+This log was last generated on Fri, 26 Aug 2022 08:29:23 GMT and should not be manually modified.
+
+## 1.0.4
+Fri, 26 Aug 2022 08:29:23 GMT
+
+### Patches
+
+- update readme
 
 ## 1.0.3
 Wed, 24 Aug 2022 09:55:22 GMT

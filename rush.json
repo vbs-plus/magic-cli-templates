@@ -423,6 +423,18 @@
       "projectFolder": "packages/vue3-vitest-starter",
       "reviewCategory": "tools",
       "shouldPublish": true
+    },
+    {
+      "packageName": "@vbs/vue3-vitest-h5-starter",
+      "projectFolder": "packages/vue3-vitest-h5-starter",
+      "reviewCategory": "tools",
+      "shouldPublish": true
+    },
+    {
+      "packageName": "@vbs/vue3-electron-starter",
+      "projectFolder": "packages/vue3-electron-starter",
+      "reviewCategory": "tools",
+      "shouldPublish": true
     }
   ]
 }
