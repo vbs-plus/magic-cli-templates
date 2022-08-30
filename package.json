@@ -10,7 +10,8 @@
     "bootstrap": "rush update",
     "start": "cd packages/core && npm run link",
     "bump":"tsx scripts/publish",
-    "test": "vitest"
+    "test": "vitest",
+    "release":"release-it"
   },
   "dependencies": {
     "vitest": "^0.10.0",
@@ -24,6 +25,7 @@
     "ora": "^6.1.2",
     "@types/ora": "^3.2.0",
     "tsx":"^3.8.2",
-    "axios":"0.27.2"
+    "axios":"^0.27.2",
+    "release-it": "^15.4.0"
   }
 }

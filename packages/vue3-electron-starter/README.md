@@ -1,3 +1,3 @@
-# Vue3 + Vitest + Vite3 Template
+# Vue3 + Vitest + Electron Template
 
 TODO

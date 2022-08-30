@@ -66,6 +66,7 @@ npm run bootstrap
 rush build
 git add .
 git commit -m "chore: publish"
+git tag <版本号>
 rush change
 rush publish --apply
 # 正式发布npm
