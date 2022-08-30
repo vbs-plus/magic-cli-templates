@@ -2,6 +2,18 @@
   "name": "@vbs/vue3-electron-starter",
   "entries": [
     {
+      "version": "1.0.2",
+      "tag": "@vbs/vue3-electron-starter_v1.0.2",
+      "date": "Tue, 30 Aug 2022 07:59:08 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.1",
       "tag": "@vbs/vue3-electron-starter_v1.0.1",
       "date": "Tue, 30 Aug 2022 06:19:06 GMT",
