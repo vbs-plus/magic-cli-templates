@@ -7,7 +7,7 @@
   "author": "",
   "main": "index.js",
   "scripts": {
-    "bootstrap": "rush update",
+    "bootstrap": "zi && rush update",
     "start": "cd packages/core && npm run link",
     "bump": "tsx scripts/publish",
     "test": "vitest",
