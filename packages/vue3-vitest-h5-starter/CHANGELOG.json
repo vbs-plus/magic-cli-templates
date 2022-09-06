@@ -2,6 +2,12 @@
   "name": "@vbs/vue3-vitest-h5-starter",
   "entries": [
     {
+      "version": "1.0.3",
+      "tag": "@vbs/vue3-vitest-h5-starter_v1.0.3",
+      "date": "Tue, 06 Sep 2022 02:55:25 GMT",
+      "comments": {}
+    },
+    {
       "version": "1.0.2",
       "tag": "@vbs/vue3-vitest-h5-starter_v1.0.2",
       "date": "Tue, 30 Aug 2022 07:59:08 GMT",
