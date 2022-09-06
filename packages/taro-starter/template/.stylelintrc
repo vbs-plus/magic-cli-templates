@@ -1,0 +1,28 @@
+{
+  "customSyntax": "postcss-less",
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-recommended",
+    "stylelint-config-rational-order"
+  ],
+  "plugins": [
+    "stylelint-order",
+    "stylelint-less"
+  ],
+  "rules": {
+    "no-empty-source": null,
+    "at-rule-no-unknown": null,
+    "color-no-invalid-hex": true,
+    "max-nesting-depth": 4,
+    "color-hex-case": null,
+    "selector-max-compound-selectors": 5,
+    "selector-pseudo-class-no-unknown": [
+      true,
+      {
+        "ignorePseudoClasses": [
+          "global"
+        ]
+      }
+    ]
+  }
+}
