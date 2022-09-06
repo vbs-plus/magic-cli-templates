@@ -11,12 +11,17 @@
     "start": "cd packages/core && npm run link",
     "bump": "tsx scripts/publish",
     "test": "vitest",
-    "release": "release-it"
+    "release": "release-it",
+    "dev:vue3-h5": "pnpm -F './packages/vue3-vitest-h5-starter/template' run dev",
+    "dev:vue3-uno": "pnpm -F './packages/vue3-vitest-starter/template' run dev",
+    "dev:react-uno": "pnpm -F './packages/react-vitest-starter/template' run dev",
+    "dev:vue3-electron": "pnpm -F './packages/vue3-electron-starter/template' run dev",
+    "dev:taro-react": "pnpm -F './packages/taro-starter/template' run dev"
   },
   "dependencies": {
     "vitest": "^0.10.0",
-    "za-zi": "^0.0.7",
-    "@vbs/magic-cli-templates": "^0.0.3",
+    "za-zi": "^0.0.8",
+    "@vbs/magic-cli-templates": "^1.0.9-beta.17",
     "@types/node": "^18.6.4",
     "@types/semver": "^7.3.12",
     "semver": "^7.3.7",

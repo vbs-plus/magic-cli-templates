@@ -435,6 +435,12 @@
       "projectFolder": "packages/vue3-electron-starter",
       "reviewCategory": "tools",
       "shouldPublish": true
+    },
+    {
+      "packageName": "@vbs/taro-react-starter",
+      "projectFolder": "packages/taro-starter",
+      "reviewCategory": "tools",
+      "shouldPublish": true
     }
   ]
 }

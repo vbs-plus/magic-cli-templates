@@ -1,0 +1,17 @@
+{
+  "name": "@vbs/taro-react-starter",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "tag": "@vbs/taro-react-starter_v1.0.0",
+      "date": "Tue, 06 Sep 2022 15:32:22 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "first publish"
+          }
+        ]
+      }
+    }
+  ]
+}

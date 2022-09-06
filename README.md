@@ -32,8 +32,10 @@ npm run bootstrap
 1. 模板仓库的命名必须以 `@vbs/` 开头，否则会造成后续脚手架不正常工作，注意是模板仓库最外层目录
 2. 参考约定规范修改模板的 `package.json` 辅助 `ejs` 模板正常渲染
 3. 为增强维护性，请为每个模板仓库编写 `README`
-4. 当同步多个仓库时，请手动执行 `npm run bump` 进行同步
-
+4. 模板的 `README` 标题请编写为 `# <%= projectName %>`
+5. 测试项目，在根目录下 `package.json` 编写增加启动 `dev script`，参考现有格式编写即可
+5. 编写根目录下的 `rush.json`，参考其他模板编写方式即可
+4. 当同步多个仓库时，请手动执行 `npm run bump` 进行同步，!!! 这一步必须已经完成 `Code Review`
 
 > 更多细节请参考 `packages/react-vitest-starter`
 

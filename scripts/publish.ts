@@ -114,13 +114,13 @@ export async function getPromptQuestionsByType(type: TemplateType) {
        name: 'installCommand',
        type: 'input',
        message: '请输入模板项目依赖安装命令',
-       default: 'npm run dev',
+       default: 'npm install',
      },
      {
        name: 'startCommand',
        type: 'input',
        message: '请输入模板启动命令',
-       default: 'npm install',
+       default: 'npm run dev',
      },
      {
        name: 'ignore',
