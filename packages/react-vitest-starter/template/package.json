@@ -18,7 +18,7 @@
     "usehooks-ts": "^2.6.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.18.9",
+    "@vbs/eslint-config": "^1.0.0",
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
     "@iconify-json/carbon": "^1.1.7",
@@ -39,7 +39,7 @@
     "vitest": "^0.7.13"
   },
   "eslintConfig": {
-    "extends": "@antfu",
+    "extends": "@vbs",
     "rules": {
       "no-console": "off"
     }

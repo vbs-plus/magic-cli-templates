@@ -19,7 +19,7 @@
     "node": "^14.18.0 || >=16.0.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.25.2",
+    "@vbs/eslint-config": "^1.0.0",
     "@commitlint/cli": "^17.1.1",
     "@commitlint/config-conventional": "^12.1.4",
     "@iconify-json/carbon": "^1.1.7",
@@ -62,7 +62,7 @@
     "UnoCSS"
   ],
   "eslintConfig": {
-    "extends": "@antfu",
+    "extends": "@vbs",
     "rules": {
       "no-console": "off",
       "no-undef": "off"
