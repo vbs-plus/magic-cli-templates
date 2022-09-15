@@ -1,6 +1,13 @@
 # Change Log - @vbs/react-vitest-starter
 
-This log was last generated on Tue, 30 Aug 2022 08:08:05 GMT and should not be manually modified.
+This log was last generated on Thu, 15 Sep 2022 02:09:23 GMT and should not be manually modified.
+
+## 1.0.8
+Thu, 15 Sep 2022 02:09:23 GMT
+
+### Patches
+
+- update eslint config
 
 ## 1.0.7
 Tue, 30 Aug 2022 08:08:05 GMT

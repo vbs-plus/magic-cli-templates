@@ -2,6 +2,18 @@
   "name": "@vbs/react-vitest-starter",
   "entries": [
     {
+      "version": "1.0.8",
+      "tag": "@vbs/react-vitest-starter_v1.0.8",
+      "date": "Thu, 15 Sep 2022 02:09:23 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update eslint config"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.7",
       "tag": "@vbs/react-vitest-starter_v1.0.7",
       "date": "Tue, 30 Aug 2022 08:08:05 GMT",

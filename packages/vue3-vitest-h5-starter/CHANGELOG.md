@@ -1,6 +1,13 @@
 # Change Log - @vbs/vue3-vitest-h5-starter
 
-This log was last generated on Tue, 06 Sep 2022 02:55:25 GMT and should not be manually modified.
+This log was last generated on Thu, 15 Sep 2022 02:09:23 GMT and should not be manually modified.
+
+## 1.0.4
+Thu, 15 Sep 2022 02:09:23 GMT
+
+### Patches
+
+- update eslint-config
 
 ## 1.0.3
 Tue, 06 Sep 2022 02:55:25 GMT
