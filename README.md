@@ -84,17 +84,18 @@ rush publish -p --include-all -n <替换成你的 npm TOKEN> && npm run bump
 |         Vue3 + Vitest + Electron 模板          |        ✅        |
 |         Vue3 + Vitest + Vite3 h5 模板          |        ✅        |
 |              Taro3 + React 模板                |        ✅        |
-| React + TS + Umi + AndP + ProComponents 中后台 |        🚧        |
+| React + TS + Umi + AndP + ProComponents 中后台 |       ✅        |
+| React + TS + Umi + AndP + ProComponents 简易版中后台 |       ✅        |
 |              React + TS 纯净(PC)               |        🚧        |
-|       Vue3 + TS + ElementPlus  + 中后台        |        🚧        |
+|       Vue3 + TS + ElementPlus  + 中后台        |       ✅        |
 |                 Vue3 + TS 纯净                 |        🚧        |
 |              Vue3组件库工程化模板              |        🚧        |
 |             React组件库工程化模板              |        🚧        |
 |         H5 ：React + AntM + Typescript         |        🚧        |
 |              支付宝小程序 + antm               |        🚧        |
 |          支付宝小程序组件库工程化模板          |        🚧        |
-|   Node + TS + unbuild + Vitest 基础 Node模板   |        🚧        |
-| Node + unbuild + Vitest + TS 基础 Cli 开发模板 |        🚧        |
+|   Node + TS + unbuild + Vitest 基础 Node模板   |       ✅         |
+| Node + unbuild + Vitest + TS 基础 Cli 开发模板 |        ✅         |
 |       Node + Koa + TS + faker  mock 插件       |        🚧        |
 |               Vscode Plugin + TS               |        🚧        |
 |                 Monorepo + CLI                 |        🚧        |
