@@ -16,21 +16,26 @@
     "dev:vue3-uno": "pnpm -F './packages/vue3-vitest-starter/template' run dev",
     "dev:react-uno": "pnpm -F './packages/react-vitest-starter/template' run dev",
     "dev:vue3-electron": "pnpm -F './packages/vue3-electron-starter/template' run dev",
-    "dev:taro-react": "pnpm -F './packages/taro-starter/template' run dev"
+    "dev:taro-react": "pnpm -F './packages/taro-starter/template' run dev",
+    "dev:ts-cli": "pnpm -F './packages/ts-cli-starter/template' run dev",
+    "dev:ts": "pnpm -F './packages/ts-starter/template' run dev",
+    "dev:element-admin": "pnpm -F './packages/vue3-element-admin-starter/template' run dev",
+    "dev:antds": "pnpm -F './packages/ant-design-simple-starter/template' run start",
+    "dev:antdp": "pnpm -F './packages/ant-design-pro-starter/template' run start"
   },
   "dependencies": {
-    "vitest": "^0.10.0",
-    "za-zi": "^0.0.8",
-    "@vbs/magic-cli-templates": "^1.0.9-beta.17",
-    "@types/node": "^18.6.4",
-    "@types/semver": "^7.3.12",
-    "semver": "^7.3.7",
-    "@types/inquirer": "^8.1.0",
-    "inquirer": "^8.1.0",
-    "ora": "^6.1.2",
+    "@types/inquirer": "^8.2.3",
+    "@types/node": "^18.7.18",
     "@types/ora": "^3.2.0",
-    "tsx": "^3.8.2",
+    "@types/semver": "^7.3.12",
+    "@vbs/magic-cli-templates": "^1.0.9-beta.18",
     "axios": "^0.27.2",
-    "release-it": "^15.4.0"
+    "inquirer": "^8.2.4",
+    "ora": "^6.1.2",
+    "release-it": "^15.4.2",
+    "semver": "^7.3.7",
+    "tsx": "^3.9.0",
+    "vitest": "^0.10.5",
+    "za-zi": "^0.0.8"
   }
 }
