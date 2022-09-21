@@ -85,7 +85,6 @@ rush publish -p --include-all -n <替换成你的 npm TOKEN> && npm run bump
 |         Vue3 + Vitest + Vite3 h5 模板          |        ✅        |
 |              Taro3 + React 模板                |        ✅        |
 | React + TS + Umi + AndP + ProComponents 中后台 |        🚧        |
-|                React + TS + Umi                |        🚧        |
 |              React + TS 纯净(PC)               |        🚧        |
 |       Vue3 + TS + ElementPlus  + 中后台        |        🚧        |
 |                 Vue3 + TS 纯净                 |        🚧        |
