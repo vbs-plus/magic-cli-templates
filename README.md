@@ -91,7 +91,6 @@ rush publish -p --include-all -n <替换成你的 npm TOKEN> && npm run bump
 |              Vue3组件库工程化模板              |        🚧        |
 |             React组件库工程化模板              |        🚧        |
 |         H5 ：React + AntM + Typescript         |        🚧        |
-|                H5:   Vue3 + TS                 |        🚧        |
 |              支付宝小程序 + antm               |        🚧        |
 |          支付宝小程序组件库工程化模板          |        🚧        |
 |   Node + TS + unbuild + Vitest 基础 Node模板   |        🚧        |
@@ -101,12 +100,3 @@ rush publish -p --include-all -n <替换成你的 npm TOKEN> && npm run bump
 |                 Monorepo + CLI                 |        🚧        |
 |                 Monorepo React                 |        🚧        |
 |               VitePress 文档模板               |        🚧        |
-|                ... 更多业务模板                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
