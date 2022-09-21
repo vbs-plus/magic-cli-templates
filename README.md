@@ -85,14 +85,12 @@ rush publish -p --include-all -n <替换成你的 npm TOKEN> && npm run bump
 |         Vue3 + Vitest + Vite3 h5 模板          |        ✅        |
 |              Taro3 + React 模板                |        ✅        |
 | React + TS + Umi + AndP + ProComponents 中后台 |        🚧        |
-|                React + TS + Umi                |        🚧        |
 |              React + TS 纯净(PC)               |        🚧        |
 |       Vue3 + TS + ElementPlus  + 中后台        |        🚧        |
 |                 Vue3 + TS 纯净                 |        🚧        |
 |              Vue3组件库工程化模板              |        🚧        |
 |             React组件库工程化模板              |        🚧        |
 |         H5 ：React + AntM + Typescript         |        🚧        |
-|                H5:   Vue3 + TS                 |        🚧        |
 |              支付宝小程序 + antm               |        🚧        |
 |          支付宝小程序组件库工程化模板          |        🚧        |
 |   Node + TS + unbuild + Vitest 基础 Node模板   |        🚧        |
@@ -102,12 +100,3 @@ rush publish -p --include-all -n <替换成你的 npm TOKEN> && npm run bump
 |                 Monorepo + CLI                 |        🚧        |
 |                 Monorepo React                 |        🚧        |
 |               VitePress 文档模板               |        🚧        |
-|                ... 更多业务模板                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
-|                                                |                 |
