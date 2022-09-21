@@ -1,3 +1,5 @@
 # Vue3 + Vitest + Vite3 Template
+## How to install
 
-TODO
+Please use [MagicCLI](https://github.com/vbs-plus/magic-cli) start the template. 
+
