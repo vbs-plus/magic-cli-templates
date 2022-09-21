@@ -1,0 +1,17 @@
+{
+  "name": "@vbs/vue3-element-admin-starter",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@vbs/vue3-element-admin-starter_v1.0.1",
+      "date": "Wed, 21 Sep 2022 08:18:48 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "init"
+          }
+        ]
+      }
+    }
+  ]
+}

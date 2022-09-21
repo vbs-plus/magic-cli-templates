@@ -1,0 +1,17 @@
+{
+  "name": "@vbs/ant-design-simple-starter",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@vbs/ant-design-simple-starter_v1.0.1",
+      "date": "Wed, 21 Sep 2022 08:18:48 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "init"
+          }
+        ]
+      }
+    }
+  ]
+}
