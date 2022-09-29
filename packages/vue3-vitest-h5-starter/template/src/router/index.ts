@@ -18,17 +18,3 @@ export const deefaultRouterList: Array<RouteRecordRaw> = [
     component: () => import ('~/pages/404.vue'),
   },
 ]
-
-const router = createRouter({
-  history: createWebHashHistory(),
-  routes: deefaultRouterList,
-  scrollBehavior() {
-    return {
-      el: '#app',
-      top: 0,
-      behavior: 'smooth',
-    }
-  },
-})
-
-export default router
