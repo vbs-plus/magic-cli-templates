@@ -1,6 +1,13 @@
 # Change Log - @vbs/vue3-vitest-h5-starter
 
-This log was last generated on Wed, 21 Sep 2022 08:18:48 GMT and should not be manually modified.
+This log was last generated on Thu, 29 Sep 2022 02:26:00 GMT and should not be manually modified.
+
+## 1.0.6
+Thu, 29 Sep 2022 02:26:00 GMT
+
+### Patches
+
+- update router
 
 ## 1.0.5
 Wed, 21 Sep 2022 08:18:48 GMT
