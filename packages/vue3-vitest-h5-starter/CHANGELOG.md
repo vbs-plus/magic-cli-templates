@@ -1,6 +1,13 @@
 # Change Log - @vbs/vue3-vitest-h5-starter
 
-This log was last generated on Thu, 29 Sep 2022 02:26:00 GMT and should not be manually modified.
+This log was last generated on Mon, 17 Oct 2022 06:48:57 GMT and should not be manually modified.
+
+## 1.0.7
+Mon, 17 Oct 2022 06:48:57 GMT
+
+### Patches
+
+- fix styles bug
 
 ## 1.0.6
 Thu, 29 Sep 2022 02:26:00 GMT

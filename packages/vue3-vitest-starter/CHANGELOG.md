@@ -1,6 +1,13 @@
 # Change Log - @vbs/vue3-vitest-starter
 
-This log was last generated on Wed, 21 Sep 2022 08:18:48 GMT and should not be manually modified.
+This log was last generated on Mon, 17 Oct 2022 06:48:57 GMT and should not be manually modified.
+
+## 1.0.8
+Mon, 17 Oct 2022 06:48:57 GMT
+
+### Patches
+
+- fix start error
 
 ## 1.0.7
 Wed, 21 Sep 2022 08:18:48 GMT

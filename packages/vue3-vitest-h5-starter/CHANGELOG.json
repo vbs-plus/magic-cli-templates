@@ -2,6 +2,18 @@
   "name": "@vbs/vue3-vitest-h5-starter",
   "entries": [
     {
+      "version": "1.0.7",
+      "tag": "@vbs/vue3-vitest-h5-starter_v1.0.7",
+      "date": "Mon, 17 Oct 2022 06:48:57 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "fix styles bug"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.6",
       "tag": "@vbs/vue3-vitest-h5-starter_v1.0.6",
       "date": "Thu, 29 Sep 2022 02:26:00 GMT",
