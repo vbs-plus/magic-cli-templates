@@ -1,7 +1,6 @@
 <script setup lang="ts">
 const router = useRouter()
 const name = $ref(router.currentRoute.value.params.name)
-
 </script>
 
 <template>

@@ -19,15 +19,20 @@ const toggleLocales = () => {
     </button>
 
     <a
-      class="icon-btn mx-2" :class="locale === 'en' ? '' : '-rotate-y-180'" :title="t('button.toggle_langs')"
+      class="icon-btn mx-2"
+      :class="locale === 'en' ? '' : '-rotate-y-180'"
+      :title="t('button.toggle_langs')"
       @click="toggleLocales()"
     >
       <div i-ri-translate />
     </a>
 
     <a
-      class="icon-btn mx-2" rel="noreferrer"
-      href="https://github.com/vbs-plus/magic-cli-templates/tree/master/packages" target="_blank" title="GitHub"
+      class="icon-btn mx-2"
+      rel="noreferrer"
+      href="https://github.com/vbs-plus/magic-cli-templates/tree/master/packages"
+      target="_blank"
+      title="GitHub"
     >
       <div i-ri-github-line />
     </a>

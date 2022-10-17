@@ -1,5 +1,4 @@
 import type { RouteRecordRaw } from 'vue-router'
-import { createRouter, createWebHashHistory } from 'vue-router'
 
 export const deefaultRouterList: Array<RouteRecordRaw> = [
   {

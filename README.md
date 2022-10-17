@@ -74,6 +74,10 @@ rush publish --apply
 rush publish -p --include-all -n <替换成你的 npm TOKEN> && npm run bump
 ```
 
+## 问题
+
+1. 如果运行 `npm run bootstrap` 安装很慢，建议配置模板的 `pnpm-workspace.yaml` ，否则将不会安装对应依赖。
+
 
 ## TODO
 
