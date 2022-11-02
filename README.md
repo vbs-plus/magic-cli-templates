@@ -87,6 +87,7 @@ rush publish -p --include-all -n <替换成你的 npm TOKEN> && npm run bump
 |      React + Vitest + UnoCSS + Vite3 模板      |        ✅        |
 |         Vue3 + Vitest + Electron 模板          |        ✅        |
 |         Vue3 + Vitest + Vite3 h5 模板          |        ✅        |
+|         Vue3 + Nuxt3 模板          |        ✅        |
 |              Taro3 + React 模板                |        ✅        |
 | React + TS + Umi + AndP + ProComponents 中后台 |       ✅        |
 | React + TS + Umi + AndP + ProComponents 简易版中后台 |       ✅        |
