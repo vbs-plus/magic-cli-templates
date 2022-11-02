@@ -1,0 +1,17 @@
+{
+  "name": "@vbs/vue3-nuxt-starter",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@vbs/vue3-nuxt-starter_v1.0.1",
+      "date": "Wed, 02 Nov 2022 07:10:22 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "init project"
+          }
+        ]
+      }
+    }
+  ]
+}
