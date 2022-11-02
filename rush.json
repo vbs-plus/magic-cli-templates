@@ -442,18 +442,18 @@
       "reviewCategory": "tools",
       "shouldPublish": true
     },
-      {
-        "packageName": "@vbs/ts-starter",
-        "projectFolder": "packages/ts-starter",
-        "reviewCategory": "tools",
-        "shouldPublish": true
-      },
-        {
-          "packageName": "@vbs/ts-cli-starter",
-          "projectFolder": "packages/ts-cli-starter",
-          "reviewCategory": "tools",
-          "shouldPublish": true
-        },
+    {
+      "packageName": "@vbs/ts-starter",
+      "projectFolder": "packages/ts-starter",
+      "reviewCategory": "tools",
+      "shouldPublish": true
+    },
+    {
+      "packageName": "@vbs/ts-cli-starter",
+      "projectFolder": "packages/ts-cli-starter",
+      "reviewCategory": "tools",
+      "shouldPublish": true
+    },
     {
       "packageName": "@vbs/ant-design-pro-starter",
       "projectFolder": "packages/ant-design-pro-starter",
@@ -466,11 +466,17 @@
       "reviewCategory": "tools",
       "shouldPublish": true
     },
-      {
-        "packageName": "@vbs/vue3-element-admin-starter",
-        "projectFolder": "packages/vue3-element-admin-starter",
-        "reviewCategory": "tools",
-        "shouldPublish": true
-      }
+    {
+      "packageName": "@vbs/vue3-element-admin-starter",
+      "projectFolder": "packages/vue3-element-admin-starter",
+      "reviewCategory": "tools",
+      "shouldPublish": true
+    },
+    {
+      "packageName": "@vbs/vue3-nuxt-starter",
+      "projectFolder": "packages/vue3-nuxt-starter",
+      "reviewCategory": "tools",
+      "shouldPublish": true
+    }
   ]
 }

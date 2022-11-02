@@ -2,3 +2,4 @@ packages:
   - '!**/test/**'
   - 'packages/vue3-vitest-starter/template'
   - 'packages/vue3-vitest-h5-starter/template'
+  - 'packages/vue3-nuxt-starter/template'

@@ -14,6 +14,7 @@
     "release": "release-it",
     "dev:vue3-h5": "pnpm -C './packages/vue3-vitest-h5-starter/template' run dev",
     "dev:vue3-uno": "pnpm -C './packages/vue3-vitest-starter/template' run dev",
+    "dev:vue3-nuxt": "pnpm -C './packages/vue3-nuxt-starter/template' run dev",
     "dev:react-uno": "pnpm -C './packages/react-vitest-starter/template' run dev",
     "dev:vue3-electron": "pnpm -C './packages/vue3-electron-starter/template' run dev",
     "dev:taro-react": "pnpm -C './packages/taro-starter/template' run dev",
