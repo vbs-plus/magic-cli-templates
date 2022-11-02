@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@vbs/vue3-nuxt-starter",
+      "comment": "update",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@vbs/vue3-nuxt-starter"
+}
